@@ -29,6 +29,7 @@ except:
         else:
             continue
     os.system('python -m pip install Ipy')
+    from IPy import IP
 
 b = len(sys.argv)
 
