@@ -16,5 +16,5 @@ To install with wget
 `python ddos {ip/website} {port} {threads}`
 threads is optional
  #example
- 
+ f
  
