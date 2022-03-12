@@ -9,7 +9,7 @@ it's not my resposiblity
 To install with git 
 `git install https://github.com/Geodeud/Marshal-DDos.git`
 To install with wget
-`wget --no-check-certificate --content-disposition`
+`wget --no-check-certificate --content-disposition https://github.com/Geodeud/Marshal-DDos.git`
 
 # Usage 
 
